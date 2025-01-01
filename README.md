@@ -1,0 +1,3 @@
+git 
+cd
+clean
