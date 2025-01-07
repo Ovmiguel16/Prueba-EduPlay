@@ -1,3 +1,1 @@
-git 
-cd
-clean
+Repositorio de prueba. APP EduPlay
